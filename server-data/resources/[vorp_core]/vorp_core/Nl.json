@@ -1,0 +1,15 @@
+{
+    "IsConnected": "🚫 Dubbele account verbonden (steam | rockstar)",
+    "NoSteam": "🚫 Je moet Steam aand hebben staan, gelieve Steam te openen & Redm herstarten.",
+    "NoInWhitelist": "🚫 Je bent niet Whitelisted",
+    "NoPermissions": "Je hebt geen machtigingen",
+    "CheckingIdentifier": "Identiteit controleren",
+    "LoadingUser": "Gebruiker laden",
+    "BannedUser": "Je bent verbannen",
+    "TitleOnDead": "Je bent gestorven",
+    "SubTitleOnDead": "Je kan opnieuw wakker worden in {0} seconden",
+    "SubTitlePressKey": "Druk~e~R~q~ om opnieuw wakker te worden",
+    "YouAreCarried": "Je word gedragen",
+
+    "VoiceRangeChanged": "Spraakafstand veranderd naar {0} meters"
+}

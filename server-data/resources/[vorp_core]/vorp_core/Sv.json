@@ -1,0 +1,15 @@
+{
+    "IsConnected": "🚫 Duplicerade konton (steam | rockstar)",
+    "NoSteam": "🚫 Du har inte Steam igång! Starta Steam och starta om RedM",
+    "NoInWhitelist": "🚫 Du är inte med på VIP listan",
+    "NoPermissions": "Du har inte rätt befogenheter",
+    "CheckingIdentifier": "Kollar upp Identifiers",
+    "LoadingUser": "Laddar in användaren",
+    "BannedUser": "Du är inte välkommen här!",
+    "TitleOnDead": "DU har dött!",
+    "SubTitleOnDead": "Du kommer vakna om {0} sekunder",
+    "SubTitlePressKey": "Tryck ~e~E~q~ för att vakna",
+    "YouAreCarried": "Du blir buren av en annan person",
+
+    "VoiceRangeChanged": "Röstläge ändrat till {0} meter"
+}

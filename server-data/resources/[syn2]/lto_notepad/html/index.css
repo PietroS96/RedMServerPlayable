@@ -1,0 +1,51 @@
+* {
+  color: rgb(0, 0, 0);
+}
+
+#container {
+  position: absolute;
+  padding: 25px;
+  height: 700px;
+  width: 850px;
+  word-wrap: break-word;
+  top: 40%;
+  left: 75%;
+  transform: translate(-50%, -50%);
+  font-size: 20px;
+  text-align: left;
+  border-radius: 7px;
+  overflow: overlay;
+  border: 5px solid rgb(0, 0, 0);
+  background-image: url(https://cdn.discordapp.com/attachments/737489445019975763/881006318826164244/note.png);
+  background-size: cover;
+}
+.buttons-remove {
+  margin-right: 40px;
+}
+
+.input-block {
+  height: 30px;
+}
+.container-input {
+  display: flex;
+  flex-direction: row;
+  gap: 130px;
+  margin-bottom: 20px;
+}
+::-webkit-scrollbar {
+  width: 11px;
+}
+
+::-webkit-scrollbar-track {
+  background: none;
+}
+
+::-webkit-scrollbar-thumb {
+  border-radius: 7px;
+  background: #ac9c64;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  border-radius: 10px;
+  background: #75693b;
+}
